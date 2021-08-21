@@ -6,6 +6,7 @@
 - --->          sudo pass
 -  --->          ................ 
 -   --->        sudo password Authenticated
--    --->  Hocus pocus i Need Focus> Lol
+-    --->  Take a look in our discord server avalible for problem solving and partnerships are now welcome! 
+-     --->    Discord invite link https://discord.gg/8jtj3vWkKu
 <!-- End of Line
 
